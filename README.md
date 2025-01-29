@@ -10,8 +10,8 @@ Este projeto consiste em uma API desenvolvida com **.NET** e **SQL Server**, imp
 ## Instruções para Rodar o Projeto
 
 1. **Clone o repositório** para sua máquina local:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    ```bash 
+    git clone https://github.com/cnthigu/api.git
     ```
 
 2. **Configuração do Banco de Dados**:
